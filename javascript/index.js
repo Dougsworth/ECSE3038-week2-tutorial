@@ -72,7 +72,7 @@ app.delete("/data/:id", function (request, response) {
 });
 
 /*
- * GET /
+ * GET /{name}
  *
  * Route that returns whatever string you pass in the url
  */
